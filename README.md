@@ -89,7 +89,6 @@
 <p align="left">
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=005C84" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=005C84" height="50"></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dynamodb&svgfill=005C84" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=316192" height="50"></a>
 </p>
 
@@ -101,6 +100,7 @@
 
 <h4>Tools & Others:</h4>
 <p align="left">
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=007ACC" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudiocode&svgfill=007ACC" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=FF6C37" height="50"></a>
@@ -124,7 +124,7 @@
 <details close>
   <summary><h2>📞 Contact Me</h2></summary>
 
-<a href="mailto:PasinduNimesha@gmail.com">
+<a href="mailto:r.m.p.n.rathnayake@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?logoColor=white&font=Fira%20Code&font-size=13" alt="EMAIL" width="110" height="30">
     </a>
     <br>
