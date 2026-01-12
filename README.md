@@ -53,7 +53,7 @@
 
 </hr>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true&quote=Only%20the%20future%20can%20save%20the%20past%20not%20the%20other%20way%20around%20&author=Ike - Vera's Melancholy" alt="Personal Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true&quote=Only%20the%20future%20can%20save%20the%20past%20not%20the%20other%20way%20around%20&author=Ike" alt="Personal Quote">
 </p>
 
 <hr>
